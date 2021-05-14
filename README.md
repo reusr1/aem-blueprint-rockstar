@@ -1,5 +1,7 @@
 # Site Theme
 
+test
+
 This is the theme of the AEM:Blueprint site template. 
 
 This theme can be modified to customize the visual appearance of sites created from the basic site template.
